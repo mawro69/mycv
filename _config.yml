@@ -1,4 +1,4 @@
-
+title: ABOUABDALLAH Mohamed Anwar
 logo: "/images/cv-phot.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   R&D engineer in applied mathematics and Modelling (Big data process and HPC)
@@ -10,4 +10,4 @@ description: > # your text below (remove <br> elements if you don't need line br
    <br><br>
   <a href="https://www.malt.fr/profile/maabouabdallah?remoteAllowed=true&q=anwar+abouabdallah&location=En+t%C3%A9l%C3%A9travail+%28France%29&searchid=601c46d7efacfd3aa61b9062">Visit my malt profile!</a>
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
