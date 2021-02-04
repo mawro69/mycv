@@ -1,5 +1,10 @@
-## Portfolio
+# ABD Anwar
+## Welcom to my portfolio page :
+“LAW 46
+Never Appear Too Perfect
 
+Appearing better than others is always dangerous, but most dangerous of all is to appear to have no faults or weaknesses. Envy creates silent enemies. It is smart to occasionally display defects, and admit to harmless vices, in order to deflect envy and appear more human and approachable. Only gods and the dead can seem perfect with impunity.”
+― Robert Greene, The 48 Laws of Power
 ---
 
 ### Category Name 1 
