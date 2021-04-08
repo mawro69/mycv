@@ -13,15 +13,24 @@ Appearing better than others is always dangerous, but most dangerous of all is t
 #### In two verse 
 
 My name is Anwar and this world, I'm out of it 
+
 'Cause with all this $\alpha$-$\beta$-$\gamma$ shit, I'm startin' to sound like A Math-ALF a bit
+
 Ha, It kill me, this climate change's counterfeit
+
 I was mislead by the sound of it, how am I gonna get turnt up on this coffee shit? (Yeah)
 
+
 Checked in at the Royal Garden
+
 To chill and avoid my problems
+
 Living a quarter century caused me to feel like I'm going bonkers
+
 For real, think my neural network talkin'
+
 I spilled like, 5 years math and data skills
+
 Think my neural networks is startin' to feel like a spoiled carton of milk
 
 #### You can also see my cv 
