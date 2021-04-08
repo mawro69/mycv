@@ -45,7 +45,7 @@ The study of biology combines studies of forms (diversity) and process modelling
 
 ---
 [Ingineering thesis ](/pdf/2019_08_Stage_5A_MAM_ABOUABDALLAH_MohamedAnwar.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sbm.jpeg?raw=true"/>
 
 Abstract
 
