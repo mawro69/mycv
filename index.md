@@ -68,8 +68,8 @@ to compare our two methods and the botanical reality.
 
 
 ---
-[Master theses](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=tru "/>
+[Master theses](1583720339634.pdf)
+<img src="images/stage.png?raw=tru "/>
 
 ---
 
