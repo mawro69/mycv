@@ -27,7 +27,7 @@ To chill and avoid my problems
 
 Living a quarter century caused me to feel like I'm going bonkers
 
-For real, think my neural network talkin'
+For real, think my neural network growin' and now start talkin'
 
 I spilled like, 5 years math and data skills
 
