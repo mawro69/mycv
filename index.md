@@ -14,7 +14,7 @@ Appearing better than others is always dangerous, but most dangerous of all is t
 
 My name is Anwar and this world, I'm out of it 
 
-'Cause with all this $\alpha$-$\beta$-$\gamma$ shit, I'm startin' to sound like A Math-ALF a bit
+'Cause with all this $\alpha - \beta -\gamma$ shit, I'm startin' to sound like A Math-ALF a bit
 
 Ha, It kill me, this climate change's counterfeit
 
