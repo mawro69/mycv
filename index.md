@@ -10,8 +10,8 @@ Appearing better than others is always dangerous, but most dangerous of all is t
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[PHD Subject : Statistical learning for OTU identification and biodiversity characterization ](/sample_page)
+<img src="images/premierpage.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
