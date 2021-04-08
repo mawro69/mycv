@@ -34,7 +34,7 @@ I spilled like, 5 years increasin' my it, math and data skills
 Think my neural networks is startin' to feel like a spoiled carton of milk
 
  
-[You can also check my cv ](/pdf/mycv (2).pdf) 
+[You can also check my cv ](/pdf/mycv2.pdf) 
 ### PHD Subject 
 
 [Title : Statistical learning for OTU identification and biodiversity characterization ](/pdf/nvtemp.pdf)
