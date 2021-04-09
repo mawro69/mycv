@@ -1,5 +1,5 @@
 
-## Welcome to my portfolio page :
+## Hi, and welcome to my page :
 ### My favorite quote :
 “LAW 46
 Never Appear Too Perfect
@@ -22,7 +22,8 @@ Ha ha, It kill me, this technologie and climate change's counterfeit
 I was mislead by the sound of it, how am I gonna get turnt up on this coffee shit? (Yeah)
 
 
-Checked in parameters of markov chain hidden 
+
+Checked that parameters in a markov chain but wher hidden 
 
 Ciga coffe, then chill and try to find my problems
 
@@ -60,7 +61,7 @@ to identifying groups and their links.
 • Then the pipeline will be implemented on biodiversity data of the Guyanese forest for data of
 which we have all the taxonomic information (order, species, genera, families).
 • Finally, I will be interested in comparing the classification via SBM and another unsupervised
-learning method which is the hierarchical classification. For this, we will take the same set
+learning method which is the hierarchical classifi cation. For this, we will take the same set
 of data, on Guyanese trees on which, we will make classifications to find the different taxa
 belonging to different taxonomic levels. Then we will calculate the contingency tables in order
 to compare our two methods and the botanical reality.
