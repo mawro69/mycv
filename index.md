@@ -1,5 +1,5 @@
 
-## Hi, and welcome to my page :
+## Welcome to my page :
 ### My favorite quote :
 “LAW 46
 Never Appear Too Perfect
