@@ -1,11 +1,8 @@
 
 ## Welcome to my page :
 ### My favorite quote :
-“LAW 46
-Never Appear Too Perfect
 
-Appearing better than others is always dangerous, but most dangerous of all is to appear to have no faults or weaknesses. Envy creates silent enemies. It is smart to occasionally display defects, and admit to harmless vices, in order to deflect envy and appear more human and approachable. Only gods and the dead can seem perfect with impunity.”
-[― Robert Greene, The 48 Laws of Power ](https://www.amazon.fr/48-Laws-Power-Robert-Greene/dp/0140280197)
+<p>“Your fears are a kind of prison that confines you within a limited range of action. The less you fear, the more power you will have and the more fully you will live.” <span style="color:blue">some <em>blue</em> text</span>.</p>[― Robert Greene, The 50th Law](https://www.amazon.fr/50th-Law-50-Cent/dp/006177460X)
 
 ---
 
