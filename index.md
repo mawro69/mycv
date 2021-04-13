@@ -75,13 +75,13 @@ My internship is accomplished in the context of landscape ecology where the diff
 
 ---
 
-### Category Name 2
-####Machine learning and statistical projects :
+### Accademic and Kaggle project :
+#### Machine learning and statistical projects :
 - [Images denoising](projetrapport.pdf)
 - [Project 2 Title](http://example.com/)
 #### HPC and modelling projects :
-- [Modelling ](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Modelling ](tp1bis.pdf)
+- [Navier Stckes aprroximation](Tp2-abouabda.pdf)
 - [Project 5 Title](http://example.com/)
 
 ---
