@@ -72,6 +72,10 @@ to compare our two methods and the botanical reality.
 [Master theses](1583720339634.pdf)
 <img src="images/stage.PNG?raw=tru "/>
 
+Abstract :
+
+My internship is accomplished in the context of landscape ecology where the diffusion reaction equations allow to model the spatio-temporal dynamics of a population by representing the temporal evolution of the density of individuals u (t, x) in each point in space under the effect of dispersal and reproduction / mortality.
+
 ---
 
 ### Category Name 2
