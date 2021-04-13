@@ -76,10 +76,11 @@ My internship is accomplished in the context of landscape ecology where the diff
 ---
 
 ### Category Name 2
-
-- [Project 1 Title](http://example.com/)
+####Machine learning and statistical projects :
+- [Images denoising](projetrapport.pdf)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+#### HPC and modelling projects :
+- [Modelling ](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
