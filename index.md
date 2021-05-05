@@ -80,13 +80,12 @@ My internship is accomplished in the context of landscape ecology where the diff
 
 #### Machine learning and statistical projects :
 - [Images denoising](projetrapport.pdf)
-- [Project 2 Title](http://example.com/)
+- [My first seminar](https://www.youtube.com/watch?v=RQHirehHPFE&ab_channel=DynaforDynafor)
 
 
 #### HPC and modelling projects :
 - [Bio Mathematics ](tp1bis.pdf)
 - [Navier Stckes aprroximation](Tp2-abouabda.pdf)
-- [Project 5 Title](http://example.com/)
 
 ---
 
