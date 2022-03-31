@@ -34,6 +34,12 @@ Think my neural networks is startin' to feel like a spoiled carton of milk
 
  
 [ Data, rap, books and writing are part of my personality, check my cv for more ](mycv2.pdf) 
+
+### PHD long abstract 
+[Title : This is a long abstract of my PHD ](LivretMain.pdf)
+
+
+
 ### PHD Subject 
 
 [Title : Statistical learning for OTU identification and biodiversity characterization ](/pdf/nvtemp.pdf)
@@ -63,7 +69,7 @@ of data, on Guyanese trees on which, we will make classifications to find the di
 belonging to different taxonomic levels. Then we will calculate the contingency tables in order
 to compare our two methods and the botanical reality.
 ...
-
+Long
 
 ---
 [Master theses](1583720339634.pdf)
