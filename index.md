@@ -37,7 +37,7 @@ Think my neural networks is startin' to feel like a spoiled carton of milk
 
 ### PHD long abstract 
 [Title : This is a long abstract of my PHD ](LivretMain.pdf)
-
+<img src="images/phdimage.jpeg?raw=true"/>
 
 
 ### PHD Subject 
