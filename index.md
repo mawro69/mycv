@@ -38,9 +38,15 @@ Think my neural networks is startin' to feel like a spoiled carton of milk
 ### Academic paper
 [Title : Does clustering of DNA barcodes agree with botanical classification directly at high taxonomic levels? Trees in French Guiana as a case study
 ](main (1).pdf)
+
 Mohamed Anwar Abouabdallah  Nathalie Peyrard  Alain Franc 
+
 Abstract : Characterizing biodiversity is one of the main challenges for the coming decades. Most diversity has not been morphologically described, and barcoding is now complementing morphological-based taxonomy to further develop inventories. Both approaches have been cross-validated at the level of species and OTUs. However, many known species are not listed in reference databases. One path to speed up inventories using barcoding is to directly identify individuals at coarser taxonomic levels. We therefore studied in barcoding of plants whether morphological-based and molecular-based approaches are in agreement at genus, family and order levels. We used Agglomerative Hierarchical Clustering (with Ward, Complete and Single Linkage) and Stochastic Block Models (SBM), with two dissimilarity measures (Smith-Waterman scores, kmers). The agreement between morphological-based and molecular-based classifications ranges in most of the cases from good to very good at taxonomic levels above species, even though it decreases when taxonomic levels increase, or when using the tetramer-based distance. Agreement is correlated with the entropy of morphological-based classification and with the ratio of the mean within- and mean between-groups dissimilarities. The Ward method globally leads to the best agreement, whereas Single Linkage can show poor behaviours. SBM provides a useful tool to test whether or not the dissimilarities are structured by the botanical groups. These results suggest that automatic clustering and group identification at taxonomic levels above species are possible in barcoding.
+
+
 Keywords : taxonomy; barcoding; clustering; Stochastic Block Model; Ward method; French Guianan Trees
+
+
 Published in : Molecular Ecology RESOURCES [Avaible here](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13579)
 
 
