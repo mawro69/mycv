@@ -30,7 +30,7 @@ For real, think my neural network just born and grown and now start talkin'
 
 I spilled like, 5 years increasin' my it, math and data skills
 
-Think my neural networks is startin' to feel like a spoiled carton of milk
+Think my neural networks  is startin' to feel like a spoiled carton of milk
 
  
 [ Data, rap, books and writing are part of my personality, check my cv for more ](mycv2.pdf) 
