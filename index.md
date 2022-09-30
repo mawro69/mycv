@@ -104,7 +104,7 @@ My internship is accomplished in the context of landscape ecology where the diff
 #### Machine learning and statistical projects :
 - [Images denoising](projetrapport.pdf)
 - [My first seminar](https://www.youtube.com/watch?v=RQHirehHPFE&ab_channel=DynaforDynafor)
-- [Classification en petite et grandedimension](projetrapport.pdf)
+- [Classification en petite et grandedimension](ProjetClassification.pdf)
 
 #### HPC and modelling projects :
 - [Bio Mathematics ](tp1bis.pdf)
