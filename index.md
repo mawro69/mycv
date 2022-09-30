@@ -30,7 +30,7 @@ For real, think my neural network just born and grown and now start talkin'
 
 I spilled like, 5 years increasin' my it, math and data skills
 
-Think my neural networks  is startin' to feel like a spoiled carton of milk
+Think my neural networks is startin' to feel like a spoiled carton of milk
 
  
 [ Data, rap, books and writing are part of my personality, check my cv for more ](mycv2.pdf) 
@@ -104,7 +104,7 @@ My internship is accomplished in the context of landscape ecology where the diff
 #### Machine learning and statistical projects :
 - [Images denoising](projetrapport.pdf)
 - [My first seminar](https://www.youtube.com/watch?v=RQHirehHPFE&ab_channel=DynaforDynafor)
-- [Classification en petite et grandedimension](ProjetClassification.pdf)
+- [Classification en petite et grandedimension](pdf/ProjetClassification.pdf)
 
 #### HPC and modelling projects :
 - [Bio Mathematics ](tp1bis.pdf)
