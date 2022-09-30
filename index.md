@@ -33,7 +33,7 @@ I spilled like, 5 years increasin' my it, math and data skills
 Think my neural networks is startin' to feel like a spoiled carton of milk
 
  
-[ Data, rap, books and writing are part of my personality, check my cv for more ](mycv2.pdf) 
+[Data, rap, books and writing are part of my personality, check my cv for more ](ABOUABDALLAH_MA (12).pdf) 
 
 ### Academic paper
 [Title : Does clustering of DNA barcodes agree with botanical classification directly at high taxonomic levels? Trees in French Guiana as a case study
