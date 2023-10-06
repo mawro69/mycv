@@ -94,6 +94,18 @@ My internship is accomplished in the context of landscape ecology where the diff
 ---
 
 
+ My name is Anwar and this world, I'm out of it 
+'Cause with all this \alpha - \beta -\gamma shit, I'm startin' to sound like A Math-ALF a bit
+Ha ha, It kill me, this technologie and climate change's counterfeit
+I was mislead by the sound of it, how am I gonna get turnt up on this coffee a little bit? (Yeah)
+
+Checked that hyperparameters in a model but where hidden 
+Ciga coffe, then chill and try to find my problems
+Living more than quarter century caused me to feel like I'm going bonkers
+For real, think my neural network just born and grown and now start talkin'
+I spilled like, severals years increasin' my it, math and data skills
+Think my neural networks is startin' to feel like a spoiled carton of milk
+
 
 
 ---
