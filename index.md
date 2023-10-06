@@ -1,5 +1,5 @@
 
-## Welcome to my page :
+# "The fate shuffles the cards, but it's us who play them." - Arthur Schopenhauer
 ### My favorite quote :
 
 “Your fears are a kind of prison that confines you within a limited range of action. The less you fear, the more power you will have and the more fully you will live.”[― Robert Greene, The 50th Law](https://www.amazon.fr/50th-Law-50-Cent/dp/006177460X)
@@ -16,24 +16,24 @@ My name is Anwar and this world, I'm out of it
 
 Ha ha, It kill me, this technologie and climate change's counterfeit
 
-I was mislead by the sound of it, how am I gonna get turnt up on this coffee shit? (Yeah)
+I was mislead by the sound of it, how am I gonna get turnt up on this coffee a little bit? (Yeah)
 
 
 
-Checked that parameters in a markov chain but wher hidden 
+Checked that hyperparameters in a model but where hidden 
 
 Ciga coffe, then chill and try to find my problems
 
-Living a quarter century caused me to feel like I'm going bonkers
+Living more than quarter century caused me to feel like I'm going bonkers
 
 For real, think my neural network just born and grown and now start talkin'
 
-I spilled like, 5 years increasin' my it, math and data skills
+I spilled like, severals years increasin' my it, math and data skills
 
 Think my neural networks is startin' to feel like a spoiled carton of milk
 
  
-[Data, rap, books and writing are part of my personality, check my cv for more ](ABOUABDALLAH_MAy.pdf) 
+[Data, rap, books and writing are part of my personality, i only code with Em in my ears check my cv for more details](ABOUABDALLAH_MAy.pdf) 
 
 ### Academic paper
 [Title : Does clustering of DNA barcodes agree with botanical classification directly at high taxonomic levels? Trees in French Guiana as a case study
