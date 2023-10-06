@@ -1,5 +1,8 @@
 
 # "The fate shuffles the cards, but it's us who play them." - Arthur Schopenhauer
+
+
+
 ### My favorite quote :
 
 “Your fears are a kind of prison that confines you within a limited range of action. The less you fear, the more power you will have and the more fully you will live.”[― Robert Greene, The 50th Law](https://www.amazon.fr/50th-Law-50-Cent/dp/006177460X)
